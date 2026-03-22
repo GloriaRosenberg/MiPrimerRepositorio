@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-Repositorio para práctica de Git
+**Hola, _este_ es un repositorio de prueba.**
